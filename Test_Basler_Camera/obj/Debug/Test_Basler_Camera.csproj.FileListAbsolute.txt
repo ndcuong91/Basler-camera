@@ -1,0 +1,11 @@
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\bin\Debug\Test_Basler_Camera.exe.config
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\obj\Debug\Test_Basler_Camera.csprojResolveAssemblyReference.cache
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\obj\Debug\Test_Basler_Camera.BaslerCam.resources
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\obj\Debug\Test_Basler_Camera.Properties.Resources.resources
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\obj\Debug\Test_Basler_Camera.csproj.GenerateResource.Cache
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\bin\Debug\Test_Basler_Camera.exe
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\bin\Debug\Test_Basler_Camera.pdb
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\bin\Debug\PylonC.NET.dll
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\bin\Debug\PylonC.NETSupportLibrary.dll
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\obj\Debug\Test_Basler_Camera.exe
+c:\users\4000237\documents\visual studio 2015\Projects\Test_Basler_Camera\Test_Basler_Camera\obj\Debug\Test_Basler_Camera.pdb
